@@ -3,6 +3,5 @@
  "structure": {
    "summary": "SUMMARY.md"
  } ,
- "plugins": ["hints", "tabs2"],
  "root" : "./"
 }

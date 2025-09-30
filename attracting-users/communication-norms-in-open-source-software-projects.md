@@ -53,9 +53,9 @@ For example, consider the basic distinction between project _users_ and project 
 
 If your project observes certain coding conventions, be sure to include those conventions in the developer documentation. Having a patch rejected by a maintainer because you haven't indented code a certain way can be rather demotivating. Users, however, likely won't need these details.
 
-{% hint style="success" %}
+
 Develop a style guide for your project and make sure it is easy to find in your developer-oriented documentation. Not every project will create its own style guide, but it is best practice to note what coding conventions the project will observe. If the project uses a previously published style guide, make sure to link to it in [the developer documentation](#user-content-fn-1)[^1].
-{% endhint %}
+
 
 ### The virtual showcase: Crafting your project's website
 
@@ -95,9 +95,9 @@ In this description, we immediately learn:
 
 The processes for creating good "getting started" documentation—occasionally called "onboarding documentation"—are outside the scope of this chapter. (Refer to the dedicated onboarding chapter in this guidebook for more detail.) Here, suffice it to say that open source project websites should feature a section aimed at helping new users and potential contributors get started using the software. Clearly labeling that section "getting started" or "new users" makes finding that section easy when people need it. Further differentiating between "new users" and "new contributors" in your onboarding documentation is even better, as these two audiences have very different needs. Clearly pointing to these resources for newcomers on the project website helps to keep the project's other communication channels—like the forums and real-time chat rooms—free from frequently repeated inquiries about how to get started.
 
-{% hint style="success" %}
+
 In your project's "getting started" guide for new users and participants, include any information you can about other places those unfamiliar with the project can get help. For example, you may have a Slack channel called "newbies" staffed by folks who enjoy mentoring and helping people get started, whereas ongoing development discussions may take place in the "developer" channel.
-{% endhint %}
+
 
 #### Frequently asked questions
 
@@ -227,9 +227,9 @@ Preserving the knowledge about decisions in an easy-to-access way:
 * Saves time for maintainers so they need not rehash history regularly.
 * Ensures that critical details on how and why decisions were made are always available even as project membership changes.
 
-{% hint style="success" %}
+
 If your project carries on most of its development discussions in the issue tracker, consider taking some small steps to highlight these discussions in other ways that will be most accessible and discoverable to interested parties and wider audiences in general.
-{% endhint %}
+
 
 For example, you may summarize the discussion of the issue in a blog, forum post, or project newsletter, thereby preserving cultural lore for the project while simultaneously informing the broader community about the change. If the project does not maintain a blog or other publication mechanism suitable for such a communication, consider adding a list of watershed issues to your project documentation so newcomers can quickly become familiar with these critical topics, and for ease of reference for long-time project participants.
 
@@ -249,9 +249,9 @@ As you would with any resource you point your community to, do your best to ensu
 
 As this chapter has stressed numerous times, kind and gracious communication with all those who participate in your project should be a default mode of behavior for interactions. The same holds true when communicating with people for whom writing in English is difficult. If you have trouble understanding what someone is saying or asking for, ask clarifying questions to let them know you will be happy to help them. Don't simply ignore someone or tell them they are not welcome in the project due to limited proficiency in written English.
 
-{% hint style="success" %}
+
 People who are not native speakers of English often begin their communication with the project with an apology for their poor English language skills. When receiving such a communication, thank the sender for writing and let them know you appreciate their efforts to communicate with the project. Where possible, point them to any resources that may be available to them in a language with which they are more familiar, for example a Spanish language forum or a Chinese language mailing list for the project.
-{% endhint %}
+
 
 #### Avoid idioms in written documentation
 

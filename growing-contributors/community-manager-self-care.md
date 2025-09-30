@@ -6,9 +6,9 @@ updated: 2020-07-09
 
 # Community Manager Self-Care
 
-{% hint style="danger" %}
+
 Materials in this chapter are for informational purposes only, not for the purpose of providing medical advice. This chapter is not intended as a substitute for professional medical advice, diagnosis, or treatment. Always seek the advice of your physician or other qualified health care provider with any questions or concerns you may have regarding your health, both mental and physical.
-{% endhint %}
+
 
 Because of their roles (but also, perhaps, because of their natures), community managers often focus (even fixate) on the health and well-being of their community members and teams. They understand the challenges and difficulties associated with encouraging stable, safe, and inclusive online communities, places where people demonstrate compassion and empathy. But too often, they mistakenly assume they’re immune to the same emotionally difficult challenges they strive to help other community members overcome.
 
