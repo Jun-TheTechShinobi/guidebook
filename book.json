@@ -3,5 +3,14 @@
  "structure": {
    "summary": "SUMMARY.md"
  } ,
- "root" : "./"
+ "root" : "./",
+ "language": "zh-cn",
+ "plugins": [
+   "language-picker"
+ ],
+ "pluginsConfig": {
+      "language-picker": {
+            "grid-columns": 3
+        }
+    }
 }
